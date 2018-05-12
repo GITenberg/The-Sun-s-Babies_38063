@@ -1,0 +1,32 @@
+_repo: The-Sun-s-Babies_38063
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Watkins, Frank
+    gutenberg_agent_id: '39227'
+    url: http://www.gutenberg.org/2009/agents/39227
+covers:
+- cover_type: archival
+  image_path: 38063-h/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Howes, Edith
+    birthdate: 1872
+    deathdate: 1954
+    gutenberg_agent_id: '9250'
+    url: http://www.gutenberg.org/2009/agents/9250
+description: ''
+gutenberg_issued: '2011-11-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38063'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Natural history -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Fairies -- Juvenile fiction'
+title: The Sun's Babies
+url: http://www.gutenberg.org/ebooks/38063
